@@ -1,4 +1,7 @@
-## Hi there 👋
+## Heyyyy 👋
+<p align="center">
+  <img src="./sketch_portrait.png" width="450">
+</p>
 
 <!--
 **radx19/radx19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
